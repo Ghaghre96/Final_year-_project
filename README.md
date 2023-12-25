@@ -16,7 +16,9 @@ This project involves the development of a Machine Learning (ML) based solution 
 - **QUANTITY_3:** 42520 non-null int64
 - **MEDICINE_4:** 12756 non-null object
 - **QUANTITY_4:** 42520 non-null int64
-- **Output TOTAL_QUANTITY:** 42520 non-null int64
+- 
+- **Output
+- **TOTAL_QUANTITY:** 42520 non-null int64
 
 ## Machine Learning Models
 The ML models selected for this project include:
