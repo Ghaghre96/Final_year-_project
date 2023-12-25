@@ -3,22 +3,6 @@
 ## Overview
 This project involves the development of a Machine Learning (ML) based solution for demand forecasting and inventory management of medicines in a healthcare center. The primary objective is to accurately predict pharmaceutical demand, optimize inventory levels, and ensure the timely availability of critical medications. The dataset contains information on various features such as date, gender, age, diagnosis, and multiple medicines along with their corresponding quantities.
 
-## Dataset Features
-- **DATE:** 42520 non-null datetime64[ns]
-- **GENDER:** 42520 non-null object
-- **AGE:** 42520 non-null int64
-- **DIAGNOSIS:** 42520 non-null object
-- **MEDICINE_1:** 38268 non-null object
-- **QUANTITY_1:** 42520 non-null int64
-- **MEDICINE_2:** 38268 non-null object
-- **QUANTITY_2:** 42520 non-null int64
-- **MEDICINE_3:** 25512 non-null object
-- **QUANTITY_3:** 42520 non-null int64
-- **MEDICINE_4:** 12756 non-null object
-- **QUANTITY_4:** 42520 non-null int64
-- 
-- **Output
-- **TOTAL_QUANTITY:** 42520 non-null int64
 
 ## Machine Learning Models
 The ML models selected for this project include:
