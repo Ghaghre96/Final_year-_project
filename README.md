@@ -1,6 +1,6 @@
 # Demand Forecasting and Inventory Management of Medicines in a Healthcare Centre
 
-### Note: The code and PowerPoint presentation will not be available until my thesis is completed due to confidentiality reasons.
+### Note: As my thesis is still in progress, the code and presentation materials are currently unavailable due to confidentiality concerns.
 
 ## Overview
 This project involves the development of a Machine Learning (ML) based solution for demand forecasting and inventory management of medicines in a healthcare center. The primary objective is to accurately predict pharmaceutical demand, optimize inventory levels, and ensure the timely availability of critical medications. The dataset contains information on various features such as date, gender, age, diagnosis, and multiple medicines along with their corresponding quantities.
